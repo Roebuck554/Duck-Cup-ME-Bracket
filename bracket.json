@@ -74,10 +74,10 @@
     {
       "ID": 7,
       "Team1Acronym": "I T",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "EXT",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": -1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -90,7 +90,6 @@
         "I T",
         "EXT"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -140,10 +139,10 @@
     {
       "ID": 13,
       "Team1Acronym": "RTH",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "ASS",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -156,7 +155,6 @@
         "RTH",
         "ASS"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -250,10 +248,10 @@
     {
       "ID": 25,
       "Team1Acronym": "4 M",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "HMM",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -266,7 +264,6 @@
         "4 M",
         "HMM"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -383,7 +380,7 @@
       "ID": 6,
       "Team1Acronym": "",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "I T",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -397,7 +394,7 @@
       },
       "Acronyms": [
         "",
-        ""
+        "I T"
       ],
       "PointsToWin": 5
     },
@@ -425,7 +422,7 @@
     },
     {
       "ID": 14,
-      "Team1Acronym": "",
+      "Team1Acronym": "RTH",
       "Team1Score": null,
       "Team2Acronym": "",
       "Team2Score": null,
@@ -440,9 +437,10 @@
         "Y": 780
       },
       "Acronyms": [
-        "",
+        "RTH",
         ""
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -471,7 +469,7 @@
       "ID": 24,
       "Team1Acronym": "",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "4 M",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -485,7 +483,7 @@
       },
       "Acronyms": [
         "",
-        ""
+        "4 M"
       ],
       "PointsToWin": 5
     },
@@ -711,7 +709,7 @@
     },
     {
       "ID": 43,
-      "Team1Acronym": "",
+      "Team1Acronym": "EXT",
       "Team1Score": null,
       "Team2Acronym": "",
       "Team2Score": null,
@@ -726,9 +724,10 @@
         "Y": 2060
       },
       "Acronyms": [
-        "",
+        "EXT",
         ""
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -755,7 +754,7 @@
     },
     {
       "ID": 49,
-      "Team1Acronym": "",
+      "Team1Acronym": "ASS",
       "Team1Score": null,
       "Team2Acronym": "",
       "Team2Score": null,
@@ -770,9 +769,10 @@
         "Y": 2260
       },
       "Acronyms": [
-        "",
+        "ASS",
         ""
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -799,7 +799,7 @@
     },
     {
       "ID": 57,
-      "Team1Acronym": "",
+      "Team1Acronym": "HMM",
       "Team1Score": null,
       "Team2Acronym": "",
       "Team2Score": null,
@@ -814,9 +814,10 @@
         "Y": 2460
       },
       "Acronyms": [
-        "",
+        "HMM",
         ""
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
