@@ -24,7 +24,6 @@
         "WID",
         "ALB"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -68,7 +67,6 @@
         "SAV",
         "GOL"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -176,7 +174,6 @@
         "我的哈",
         "WI2"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -198,16 +195,15 @@
         ":SU",
         "QUA"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 21,
       "Team1Acronym": "AIU",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "VER",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -285,7 +281,6 @@
         "DRO",
         "BPM"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -313,10 +308,10 @@
     {
       "ID": 32,
       "Team1Acronym": ":PA",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "EL ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -329,7 +324,6 @@
         ":PA",
         "EL "
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -351,34 +345,34 @@
         "BAN",
         "CAN"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 2,
-      "Team1Acronym": "",
+      "Team1Acronym": "WID",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "JAC",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-25T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 60
       },
       "Acronyms": [
-        "",
-        ""
+        "WID",
+        "JAC"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 6,
-      "Team1Acronym": "",
+      "Team1Acronym": "SAV",
       "Team1Score": null,
       "Team2Acronym": "I T",
       "Team2Score": null,
@@ -386,51 +380,53 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-25T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 300
       },
       "Acronyms": [
-        "",
+        "SAV",
         "I T"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 10,
-      "Team1Acronym": "",
+      "Team1Acronym": "VEN",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "IM ",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-25T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 540
       },
       "Acronyms": [
-        "",
-        ""
+        "VEN",
+        "IM "
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 14,
       "Team1Acronym": "RTH",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "我的哈",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -438,36 +434,37 @@
       },
       "Acronyms": [
         "RTH",
-        ""
+        "我的哈"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 20,
-      "Team1Acronym": "",
+      "Team1Acronym": ":SU",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "VER",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 1020
       },
       "Acronyms": [
-        "",
-        ""
+        ":SU",
+        "VER"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 24,
-      "Team1Acronym": "",
+      "Team1Acronym": ":SL",
       "Team1Score": null,
       "Team2Acronym": "4 M",
       "Team2Score": null,
@@ -475,60 +472,63 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-25T20:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 1260
       },
       "Acronyms": [
-        "",
+        ":SL",
         "4 M"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 28,
-      "Team1Acronym": "",
+      "Team1Acronym": "DRO",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": ":GA",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-26T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 1500
       },
       "Acronyms": [
-        "",
-        ""
+        "DRO",
+        ":GA"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 33,
-      "Team1Acronym": "",
+      "Team1Acronym": ":PA",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "BAN",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-25T20:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 1740
       },
       "Acronyms": [
-        "",
-        ""
+        ":PA",
+        "BAN"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -687,82 +687,84 @@
     },
     {
       "ID": 38,
-      "Team1Acronym": "",
+      "Team1Acronym": "ALB",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "D O",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 1960
       },
       "Acronyms": [
-        "",
-        ""
+        "ALB",
+        "D O"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 43,
-      "Team1Acronym": "EXT",
+      "Team1Acronym": "GOL",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "EXT",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2060
       },
       "Acronyms": [
-        "EXT",
-        ""
+        "GOL",
+        "EXT"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 46,
-      "Team1Acronym": "",
+      "Team1Acronym": "LAI",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "POL",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-25T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2160
       },
       "Acronyms": [
-        "",
-        ""
+        "LAI",
+        "POL"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 49,
       "Team1Acronym": "ASS",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "WI2",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -770,98 +772,101 @@
       },
       "Acronyms": [
         "ASS",
-        ""
+        "WI2"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 53,
-      "Team1Acronym": "",
+      "Team1Acronym": "QUA",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "AIU",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2360
       },
       "Acronyms": [
-        "",
-        ""
+        "QUA",
+        "AIU"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 57,
-      "Team1Acronym": "HMM",
+      "Team1Acronym": "MAR",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "HMM",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2460
       },
       "Acronyms": [
-        "HMM",
-        ""
+        "MAR",
+        "HMM"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 60,
-      "Team1Acronym": "",
+      "Team1Acronym": "BPM",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "BIG",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-24T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2560
       },
       "Acronyms": [
-        "",
-        ""
+        "BPM",
+        "BIG"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 63,
-      "Team1Acronym": "",
+      "Team1Acronym": "EL ",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "CAN",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-02-23T21:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2660
       },
       "Acronyms": [
-        "",
-        ""
+        "EL ",
+        "CAN"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1465,7 +1470,608 @@
       "Name": "Round of 16",
       "Description": "",
       "BestOf": 9,
-      "Beatmaps": [],
+      "Beatmaps": [
+        {
+          "ID": 3429032,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3429032,
+            "DifficultyName": "Extra",
+            "BPM": 180.0,
+            "Length": 154000.0,
+            "StarRating": 6.72,
+            "Metadata": {
+              "Title": "I Got No Time",
+              "title_unicode": "I Got No Time",
+              "Artist": "The Living Tombstone",
+              "artist_unicode": "The Living Tombstone",
+              "Author": {
+                "OnlineID": 3789276,
+                "Username": "Vivyanne",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "five nights at freddies 4 fnaf4",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1678423/covers/cover@2x.jpg?1704150024",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1678423/covers/card@2x.jpg?1704150024",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1678423/covers/list@2x.jpg?1704150024"
+            }
+          }
+        },
+        {
+          "ID": 1292962,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 1292962,
+            "DifficultyName": "Symphony",
+            "BPM": 224.0,
+            "Length": 129000.0,
+            "StarRating": 7.1,
+            "Metadata": {
+              "Title": "Unpleasant Sonata",
+              "title_unicode": "Unpleasant Sonata",
+              "Artist": "Igorrr",
+              "artist_unicode": "Igorrr",
+              "Author": {
+                "OnlineID": 8092500,
+                "Username": "L u m ii n a",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "breakcore dnb baroque experimental",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/612717/covers/cover@2x.jpg?1693497645",
+              "card@2x": "https://assets.ppy.sh/beatmaps/612717/covers/card@2x.jpg?1693497645",
+              "list@2x": "https://assets.ppy.sh/beatmaps/612717/covers/list@2x.jpg?1693497645"
+            }
+          }
+        },
+        {
+          "ID": 1502216,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 1502216,
+            "DifficultyName": "Judgement Day",
+            "BPM": 145.0,
+            "Length": 204000.0,
+            "StarRating": 6.42,
+            "Metadata": {
+              "Title": "Would You Be Impressed",
+              "title_unicode": "Would You Be Impressed",
+              "Artist": "Streetlight Manifesto",
+              "artist_unicode": "Streetlight Manifesto",
+              "Author": {
+                "OnlineID": 3827077,
+                "Username": "Raikozen",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/710626/covers/cover@2x.jpg?1514597262",
+              "card@2x": "https://assets.ppy.sh/beatmaps/710626/covers/card@2x.jpg?1514597262",
+              "list@2x": "https://assets.ppy.sh/beatmaps/710626/covers/list@2x.jpg?1514597262"
+            }
+          }
+        },
+        {
+          "ID": 3301301,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3301301,
+            "DifficultyName": "Crack",
+            "BPM": 180.0,
+            "Length": 129000.0,
+            "StarRating": 6.82,
+            "Metadata": {
+              "Title": "VOLTEXES III",
+              "title_unicode": "VOLTEXES III",
+              "Artist": "Sota Fujimori",
+              "artist_unicode": "Sota Fujimori",
+              "Author": {
+                "OnlineID": 3214844,
+                "Username": "Feiri",
+                "CountryString": "Unknown"
+              },
+              "Source": "SOUND VOLTEX III GRAVITY WARS",
+              "tags": "saika's autumn tournament sat2021 gf nm4 bemani konami sdvx system bgm exit tunes dance party ～beatnation rhyze music council～ expander electronic instrumental",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.1,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1616818/covers/cover@2x.jpg?1638210669",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1616818/covers/card@2x.jpg?1638210669",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1616818/covers/list@2x.jpg?1638210669"
+            }
+          }
+        },
+        {
+          "ID": 3665124,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3665124,
+            "DifficultyName": "Tournament ver.",
+            "BPM": 175.0,
+            "Length": 212000.0,
+            "StarRating": 6.42,
+            "Metadata": {
+              "Title": "Fuse",
+              "title_unicode": "Fuse",
+              "Artist": "sky_delta vs. Tanchiky",
+              "artist_unicode": "sky_delta vs. Tanchiky",
+              "Author": {
+                "OnlineID": 15664628,
+                "Username": "Arushii09",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "dubcore j-core hardcore trance core edm featured artist eletronic tanchiky sky_delta 4th revolt tech",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 8.6,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1660405/covers/cover@2x.jpg?1661785281",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1660405/covers/card@2x.jpg?1661785281",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1660405/covers/list@2x.jpg?1661785281"
+            }
+          }
+        },
+        {
+          "ID": 4060358,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 4060358,
+            "DifficultyName": "Diff name",
+            "BPM": 185.0,
+            "Length": 120000.0,
+            "StarRating": 5.86,
+            "Metadata": {
+              "Title": "Letter to the Black World",
+              "title_unicode": "Letter to the Black World",
+              "Artist": "Frog96",
+              "artist_unicode": "Frog96",
+              "Author": {
+                "OnlineID": 9590557,
+                "Username": "Firika",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "utau kasane teto vocaloid japanese electronic 重音テト 重音 テト ボーカロイド hurokuro furokuro kuronuri sekai ate shokan bwccffm2 bwc common finals fm2",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1959503/covers/cover@2x.jpg?1681689670",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1959503/covers/card@2x.jpg?1681689670",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1959503/covers/list@2x.jpg?1681689670"
+            }
+          }
+        },
+        {
+          "ID": 3580815,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 3580815,
+            "DifficultyName": "nae mommy mommy",
+            "BPM": 186.0,
+            "Length": 189000.0,
+            "StarRating": 6.48,
+            "Metadata": {
+              "Title": "SO BAD",
+              "title_unicode": "SO BAD",
+              "Artist": "STAYC",
+              "artist_unicode": "스테이씨",
+              "Author": {
+                "OnlineID": 4681578,
+                "Username": "GRR SNARL GROWL",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "nyss2022qfhd1 squilly k-pop kpop star to a young culture",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.2,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1750277/covers/cover@2x.jpg?1654385442",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1750277/covers/card@2x.jpg?1654385442",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1750277/covers/list@2x.jpg?1654385442"
+            }
+          }
+        },
+        {
+          "ID": 1632912,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1632912,
+            "DifficultyName": "Expert",
+            "BPM": 145.0,
+            "Length": 201000.0,
+            "StarRating": 5.6,
+            "Metadata": {
+              "Title": "FAFNIR",
+              "title_unicode": "FAFNIR",
+              "Artist": "Sakuzyo",
+              "artist_unicode": "Sakuzyo",
+              "Author": {
+                "OnlineID": 5297447,
+                "Username": "Sulfur",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "su1fu7 kkipalt kip -kevincela- kevincela rvmathew naotoshi nao tomori icekalt last dance dvsp-0144 diverse system 削除",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/777255/covers/cover@2x.jpg?1650666037",
+              "card@2x": "https://assets.ppy.sh/beatmaps/777255/covers/card@2x.jpg?1650666037",
+              "list@2x": "https://assets.ppy.sh/beatmaps/777255/covers/list@2x.jpg?1650666037"
+            }
+          }
+        },
+        {
+          "ID": 3861051,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3861051,
+            "DifficultyName": "Very Cool",
+            "BPM": 167.0,
+            "Length": 202000.0,
+            "StarRating": 5.06,
+            "Metadata": {
+              "Title": "Shinzou Cascade",
+              "title_unicode": "心象カスケード",
+              "Artist": "fuku_wa",
+              "artist_unicode": "腹話",
+              "Author": {
+                "OnlineID": 3053382,
+                "Username": "melon boy",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "fuccho owc2022qfdt1",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.8,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 7.8,
+              "ApproachRate": 8.8,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1876208/covers/cover@2x.jpg?1669577478",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1876208/covers/card@2x.jpg?1669577478",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1876208/covers/list@2x.jpg?1669577478"
+            }
+          }
+        },
+        {
+          "ID": 1073765,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 1073765,
+            "DifficultyName": "sketch",
+            "BPM": 133.0,
+            "Length": 192000.0,
+            "StarRating": 4.65,
+            "Metadata": {
+              "Title": "Love Natural",
+              "title_unicode": "Love Natural",
+              "Artist": "Crystal Fighters",
+              "artist_unicode": "Crystal Fighters",
+              "Author": {
+                "OnlineID": 987334,
+                "Username": "Bonsai",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.5,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/504712/covers/cover@2x.jpg?1473029800",
+              "card@2x": "https://assets.ppy.sh/beatmaps/504712/covers/card@2x.jpg?1473029800",
+              "list@2x": "https://assets.ppy.sh/beatmaps/504712/covers/list@2x.jpg?1473029800"
+            }
+          }
+        },
+        {
+          "ID": 2952473,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 2952473,
+            "DifficultyName": "JJburst's Insane",
+            "BPM": 178.0,
+            "Length": 172000.0,
+            "StarRating": 4.84,
+            "Metadata": {
+              "Title": "Raikou -3rd Desire-",
+              "title_unicode": "雷洸 -3rd Desire-",
+              "Artist": "TatshMusicCircle",
+              "artist_unicode": "TatshMusicCircle",
+              "Author": {
+                "OnlineID": 134572,
+                "Username": "Kite",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方神霊廟　～ Ten Desires.",
+              "tags": "electronic instrumental video game doujin shinreibyou td th13 divine spirit mausoleum 東方project niva lunarsakuya 古きユアンシェン ten desires kaku seiga touhou c81 comiket81 far east of east vi nunnally lamperouge tatsuya shimizu 清水達也 jjburstowo frey",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/143316/covers/cover@2x.jpg?1639401669",
+              "card@2x": "https://assets.ppy.sh/beatmaps/143316/covers/card@2x.jpg?1639401669",
+              "list@2x": "https://assets.ppy.sh/beatmaps/143316/covers/list@2x.jpg?1639401669"
+            }
+          }
+        },
+        {
+          "ID": 3668377,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 3668377,
+            "DifficultyName": "all we wanna do is ****",
+            "BPM": 190.0,
+            "Length": 116000.0,
+            "StarRating": 6.71,
+            "Metadata": {
+              "Title": "BADTEK",
+              "title_unicode": "BADTEK",
+              "Artist": "EBIMAYO",
+              "artist_unicode": "EBIMAYO",
+              "Author": {
+                "OnlineID": 14396453,
+                "Username": "KingBaxter",
+                "CountryString": "Unknown"
+              },
+              "Source": "Arcaea",
+              "tags": "centaurea osu 2022 22 arcaea goodbounce goodtek ebimayo co22 nm2 ro32 streams",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1790232/covers/cover@2x.jpg?1659979823",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1790232/covers/card@2x.jpg?1659979823",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1790232/covers/list@2x.jpg?1659979823"
+            }
+          }
+        },
+        {
+          "ID": 2866813,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 2866813,
+            "DifficultyName": "original diff but now it's FM2",
+            "BPM": 220.0,
+            "Length": 148000.0,
+            "StarRating": 5.6,
+            "Metadata": {
+              "Title": "Yuugure One Room",
+              "title_unicode": "夕暮れワンルーム",
+              "Artist": "40mP feat. Chano",
+              "artist_unicode": "40mP feat. シャノ",
+              "Author": {
+                "OnlineID": 8484892,
+                "Username": "vekt0r",
+                "CountryString": "Unknown"
+              },
+              "Source": "CHUNITHM",
+              "tags": "sunset studio",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1388120/covers/cover@2x.jpg?1649021413",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1388120/covers/card@2x.jpg?1649021413",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1388120/covers/list@2x.jpg?1649021413"
+            }
+          }
+        },
+        {
+          "ID": 3619544,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 3619544,
+            "DifficultyName": "Rhapsodize",
+            "BPM": 130.0,
+            "Length": 205000.0,
+            "StarRating": 6.46,
+            "Metadata": {
+              "Title": "Doctorine",
+              "title_unicode": "ドクトリーヌ",
+              "Artist": "sekai",
+              "artist_unicode": "sekai",
+              "Author": {
+                "OnlineID": 7354729,
+                "Username": "Petal",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "煮ル果実 nilfruits cover full jpop j-pop pop japanese matha wanpachi cycopton flake climbx3145 shizuku- ayesha altugle kazato asa shikibe mayu",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.8,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1768214/covers/cover@2x.jpg?1662211617",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1768214/covers/card@2x.jpg?1662211617",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1768214/covers/list@2x.jpg?1662211617"
+            }
+          }
+        },
+        {
+          "ID": 4232037,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 4232037,
+            "DifficultyName": "Forevermore",
+            "BPM": 205.0,
+            "Length": 384000.0,
+            "StarRating": 6.96,
+            "Metadata": {
+              "Title": "Terminus Of The Eternity",
+              "title_unicode": "Terminus Of The Eternity",
+              "Artist": "Rhea vs N_dog feat. alfel",
+              "artist_unicode": "Rhea vs えぬわんこ feat. alfel",
+              "Author": {
+                "OnlineID": 8337056,
+                "Username": "LosPedros",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "sound from art compilation dog dubcore hardcore artcore electronic japanese drum and bass dnb えぬわんこ enuwanko ndog そらみけ れあ coffee sip showdown finals tie breaker tiebreaker tb boyan",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.2,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1955375/covers/cover@2x.jpg?1692392458",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1955375/covers/card@2x.jpg?1692392458",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1955375/covers/list@2x.jpg?1692392458"
+            }
+          }
+        }
+      ],
       "StartDate": "2024-02-23T00:00:00+00:00",
       "Matches": [
         2,
