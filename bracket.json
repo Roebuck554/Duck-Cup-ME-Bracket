@@ -472,7 +472,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-02-25T20:00:00+00:00",
+      "Date": "2024-02-25T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -518,7 +518,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-02-25T20:00:00+00:00",
+      "Date": "2024-02-24T19:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -718,7 +718,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-02-24T16:00:00+00:00",
+      "Date": "2024-02-25T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -764,7 +764,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-02-24T15:00:00+00:00",
+      "Date": "2024-02-25T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -810,7 +810,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-02-24T13:00:00+00:00",
+      "Date": "2024-02-25T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -833,7 +833,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-02-24T17:00:00+00:00",
+      "Date": "2024-02-24T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -849,9 +849,9 @@
     {
       "ID": 63,
       "Team1Acronym": "EL ",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "CAN",
-      "Team2Score": null,
+      "Team2Score": 5,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
