@@ -613,10 +613,10 @@
     {
       "ID": 33,
       "Team1Acronym": ":PA",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "BAN",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -630,7 +630,6 @@
         ":PA",
         "BAN"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -704,7 +703,7 @@
       "ID": 31,
       "Team1Acronym": "",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": ":PA",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -718,7 +717,7 @@
       },
       "Acronyms": [
         "",
-        ""
+        ":PA"
       ],
       "PointsToWin": 6
     },
@@ -837,10 +836,10 @@
     {
       "ID": 46,
       "Team1Acronym": "LAI",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "POL",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -854,7 +853,6 @@
         "LAI",
         "POL"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -906,10 +904,10 @@
     {
       "ID": 57,
       "Team1Acronym": "MAR",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "HMM",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1070,7 +1068,7 @@
       "ID": 44,
       "Team1Acronym": "",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "LAI",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1084,7 +1082,7 @@
       },
       "Acronyms": [
         "",
-        ""
+        "LAI"
       ],
       "PointsToWin": 6
     },
@@ -1138,7 +1136,7 @@
       "ID": 56,
       "Team1Acronym": "",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "HMM",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1152,7 +1150,7 @@
       },
       "Acronyms": [
         "",
-        ""
+        "HMM"
       ],
       "PointsToWin": 6
     },
@@ -1180,7 +1178,7 @@
     },
     {
       "ID": 62,
-      "Team1Acronym": "",
+      "Team1Acronym": "BAN",
       "Team1Score": null,
       "Team2Acronym": "CAN",
       "Team2Score": null,
@@ -1195,9 +1193,10 @@
         "Y": 2620
       },
       "Acronyms": [
-        "",
+        "BAN",
         "CAN"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
