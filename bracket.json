@@ -729,7 +729,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-03-10T13:00:00+00:00",
+      "Date": "2024-03-10T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 540,
@@ -1342,7 +1342,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2024-03-10T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1365,7 +1365,7 @@
       "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2024-03-09T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1389,7 +1389,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-12-10T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 900,
@@ -1412,7 +1412,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-12-10T20:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 900,
