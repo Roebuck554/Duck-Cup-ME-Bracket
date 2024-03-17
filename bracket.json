@@ -774,8 +774,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2024-03-17T14:00:00+00:00",
+      "Current": true,
+      "Date": "2024-03-17T14:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 720,
@@ -1428,14 +1428,14 @@
     {
       "ID": 37,
       "Team1Acronym": "VER",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "BAN",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 7,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-03-16T16:00:00+00:00",
+      "Date": "2024-03-16T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1080,
@@ -1451,13 +1451,13 @@
     {
       "ID": 52,
       "Team1Acronym": "SAV",
-      "Team1Score": null,
+      "Team1Score": 2,
       "Team2Acronym": "WID",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 7,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2024-03-16T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1473,24 +1473,25 @@
     },
     {
       "ID": 41,
-      "Team1Acronym": "",
-      "Team1Score": null,
-      "Team2Acronym": "",
-      "Team2Score": null,
+      "Team1Acronym": "BAN",
+      "Team1Score": 0,
+      "Team2Acronym": "WID",
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-03-18T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
         "Y": 1960
       },
       "Acronyms": [
-        "",
-        ""
+        "BAN",
+        "WID"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
