@@ -1474,14 +1474,14 @@
     {
       "ID": 41,
       "Team1Acronym": "BAN",
-      "Team1Score": 0,
+      "Team1Score": 7,
       "Team2Acronym": "WID",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2024-03-24T16:00:00+00:00",
+      "Current": false,
+      "Date": "2024-03-23T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
@@ -1491,20 +1491,19 @@
         "BAN",
         "WID"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 30,
       "Team1Acronym": "我的哈",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "BAN",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2024-03-23T01:00:00+00:00",
+      "Current": true,
+      "Date": "2024-03-30T03:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1440,
@@ -1512,7 +1511,7 @@
       },
       "Acronyms": [
         "我的哈",
-        ""
+        "BAN"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
@@ -1527,7 +1526,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-03-24T00:00:00+00:00",
+      "Date": "2024-03-30T06:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1620,
@@ -1550,7 +1549,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-12-09T20:00:00+00:00",
+      "Date": "2024-03-31T05:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1800,
@@ -1569,8 +1568,891 @@
       "Description": "",
       "BestOf": 13,
       "BanCount": 2,
-      "Beatmaps": [],
-      "StartDate": "2024-03-22T00:00:00+00:00",
+      "Beatmaps": [
+        {
+          "ID": 3793488,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3793488,
+            "DifficultyName": "Release The Quacken!",
+            "BPM": 200.0,
+            "Length": 151000.0,
+            "StarRating": 7.46,
+            "EndTimeObjectCount": 190,
+            "TotalObjectCount": 847,
+            "Metadata": {
+              "Title": "A Dada",
+              "title_unicode": "A Dada",
+              "Artist": "Ruby My Dear",
+              "artist_unicode": "Ruby My Dear",
+              "Author": {
+                "OnlineID": 3144542,
+                "Username": "fergas",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "co22 nm6 wf duckcore",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.27,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1846684/covers/cover@2x.jpg?1665338441",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1846684/covers/card@2x.jpg?1665338441",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1846684/covers/list@2x.jpg?1665338441"
+            }
+          }
+        },
+        {
+          "ID": 4543329,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4543329,
+            "DifficultyName": "P-L-U-S",
+            "BPM": 166.0,
+            "Length": 149000.0,
+            "StarRating": 7.54,
+            "EndTimeObjectCount": 264,
+            "TotalObjectCount": 1060,
+            "Metadata": {
+              "Title": "starship.6",
+              "title_unicode": "starship.6",
+              "Artist": "Plus-Tech Squeeze Box",
+              "artist_unicode": "Plus-Tech Squeeze Box",
+              "Author": {
+                "OnlineID": 5346261,
+                "Username": "bob",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "duck cup mandarin edition dc5 nm3 gf grand finals electronic japanese cartooom cartoom breakcore experimental plustech vetoed sukii",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.8,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.6,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2155462/covers/cover@2x.jpg?1711303553",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2155462/covers/card@2x.jpg?1711303553",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2155462/covers/list@2x.jpg?1711303553"
+            }
+          }
+        },
+        {
+          "ID": 3169153,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3169153,
+            "DifficultyName": "Manipulative (212 BPM)",
+            "BPM": 212.0,
+            "Length": 172000.0,
+            "StarRating": 7.85,
+            "EndTimeObjectCount": 247,
+            "TotalObjectCount": 962,
+            "Metadata": {
+              "Title": "Marionette no Kairaku",
+              "title_unicode": "マリオネットの快楽",
+              "Artist": "yanne feat. Hatsune Miku",
+              "artist_unicode": "やんね feat. 初音ミク",
+              "Author": {
+                "OnlineID": 3552948,
+                "Username": "SkyFlame",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "vocaloid japanese rock j-rock jrock nat 2021 nm1 north america tournament",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.4,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.4,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1550860/covers/cover@2x.jpg?1632103281",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1550860/covers/card@2x.jpg?1632103281",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1550860/covers/list@2x.jpg?1632103281"
+            }
+          }
+        },
+        {
+          "ID": 3688768,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3688768,
+            "DifficultyName": "Equalize",
+            "BPM": 170.0,
+            "Length": 115000.0,
+            "StarRating": 5.44,
+            "EndTimeObjectCount": 66,
+            "TotalObjectCount": 581,
+            "Metadata": {
+              "Title": "LEVEL-DOWN",
+              "title_unicode": "LEVEL-DOWN",
+              "Artist": "II-L",
+              "artist_unicode": "II-L",
+              "Author": {
+                "OnlineID": 53378,
+                "Username": "ktgster",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "bms bofxv19 electronic instrumental psy footwork charlie's perfect math class cpmc featured artist ac3 hdfree apichu",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 3.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1799413/covers/cover@2x.jpg?1659776431",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1799413/covers/card@2x.jpg?1659776431",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1799413/covers/list@2x.jpg?1659776431"
+            }
+          }
+        },
+        {
+          "ID": 3802267,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3802267,
+            "DifficultyName": "yea",
+            "BPM": 218.0,
+            "Length": 207000.0,
+            "StarRating": 7.71,
+            "EndTimeObjectCount": 255,
+            "TotalObjectCount": 1759,
+            "Metadata": {
+              "Title": "Creator's Conscience",
+              "title_unicode": "Creator's Conscience",
+              "Artist": "AngelMaker",
+              "artist_unicode": "AngelMaker",
+              "Author": {
+                "OnlineID": 10507407,
+                "Username": "Nymphe",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "co22 corsace open 2022 nm2 nomod stream gf grand finals",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.5,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.7,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1850899/covers/cover@2x.jpg?1665946855",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1850899/covers/card@2x.jpg?1665946855",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1850899/covers/list@2x.jpg?1665946855"
+            }
+          }
+        },
+        {
+          "ID": 3688650,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3688650,
+            "DifficultyName": "Hypervelocity",
+            "BPM": 178.0,
+            "Length": 149000.0,
+            "StarRating": 7.4,
+            "EndTimeObjectCount": 408,
+            "TotalObjectCount": 1017,
+            "Metadata": {
+              "Title": "Stellar Proximity Shift",
+              "title_unicode": "Stellar Proximity Shift",
+              "Artist": "kanemiko",
+              "artist_unicode": "kanemiko",
+              "Author": {
+                "OnlineID": 918297,
+                "Username": "Realazy",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "charlie's perfect math class cpmc bs1 freemod",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1799362/covers/cover@2x.jpg?1659322822",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1799362/covers/card@2x.jpg?1659322822",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1799362/covers/list@2x.jpg?1659322822"
+            }
+          }
+        },
+        {
+          "ID": 4536878,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 4536878,
+            "DifficultyName": "nerf (arf)",
+            "BPM": 183.0,
+            "Length": 233000.0,
+            "StarRating": 6.38,
+            "EndTimeObjectCount": 263,
+            "TotalObjectCount": 905,
+            "Metadata": {
+              "Title": "Werewolf",
+              "title_unicode": "Werewolf",
+              "Artist": "Lil Uzi Vert feat. Bring Me The Horizon",
+              "artist_unicode": "Lil Uzi Vert feat. Bring Me The Horizon",
+              "Author": {
+                "OnlineID": 14806365,
+                "Username": "chests",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "metal rock hip hop english male vocal witness me pink tape",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.21,
+              "CircleSize": 4.34,
+              "OverallDifficulty": 8.621,
+              "ApproachRate": 7.621,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2072374/covers/cover@2x.jpg?1710917842",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2072374/covers/card@2x.jpg?1710917842",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2072374/covers/list@2x.jpg?1710917842"
+            }
+          }
+        },
+        {
+          "ID": 4360374,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 4360374,
+            "DifficultyName": "Agatsu's Unchanging Promises",
+            "BPM": 240.0,
+            "Length": 218000.0,
+            "StarRating": 7.28,
+            "EndTimeObjectCount": 464,
+            "TotalObjectCount": 1068,
+            "Metadata": {
+              "Title": "Yakusoku no Ao",
+              "title_unicode": "約束の蒼",
+              "Artist": "Reol",
+              "artist_unicode": "れをる",
+              "Author": {
+                "OnlineID": 9704802,
+                "Username": "zekk",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "japanese rock 極彩色 gokusaishiki promised blue kibbleru professionalbox kalibe chaoslitz toybot fuju nexusqi impurepug resona heroine some_hero some hero zelq bongo moete erisu momoyo estonia corsace closed agatsu cc22 wf finals hr1",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.1,
+              "OverallDifficulty": 8.8,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2010347/covers/cover@2x.jpg?1701872643",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2010347/covers/card@2x.jpg?1701872643",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2010347/covers/list@2x.jpg?1701872643"
+            }
+          }
+        },
+        {
+          "ID": 3107406,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3107406,
+            "DifficultyName": "Intersection",
+            "BPM": 160.0,
+            "Length": 148000.0,
+            "StarRating": 7.03,
+            "EndTimeObjectCount": 231,
+            "TotalObjectCount": 995,
+            "Metadata": {
+              "Title": "conflict",
+              "title_unicode": "conflict",
+              "Artist": "siromaru + cranky",
+              "artist_unicode": "siromaru + cranky",
+              "Author": {
+                "OnlineID": 1243669,
+                "Username": "yf_bmp",
+                "CountryString": "Unknown"
+              },
+              "Source": "THE BMS OF FIGHTERS 2011 - Intersection of conflict -",
+              "tags": "iimo harmonic schranz electronic conlang english bof2011 arcaea sound voltex iii gravity wars maimai finale dx cytus ii deemo voez synchronica taiko no tatsujin chunithm o.n.g.e.k.i ongeki muse dash tapsonic top groove coaster waiwai party!!!! 2 original style rhythmvaders wacca seven's code dance rail respect pump it up orzmic takumi x_light yorita_yoshino setu strengemistake x light yorita yoshino video rhythm game featured artist fa mappers' guild mappers mpg",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1212359/covers/cover@2x.jpg?1650442169",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1212359/covers/card@2x.jpg?1650442169",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1212359/covers/list@2x.jpg?1650442169"
+            }
+          }
+        },
+        {
+          "ID": 2749921,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 2749921,
+            "DifficultyName": "Mikojel's Extreme",
+            "BPM": 215.0,
+            "Length": 194000.0,
+            "StarRating": 7.27,
+            "EndTimeObjectCount": 341,
+            "TotalObjectCount": 1220,
+            "Metadata": {
+              "Title": "Unrestrained",
+              "title_unicode": "Unrestrained",
+              "Artist": "Whispered",
+              "artist_unicode": "Whispered",
+              "Author": {
+                "OnlineID": 6381153,
+                "Username": "ItsWinter",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "blitzifyyy silence player shogunate macabre metal death japanese samurai english mikojel kerupt tae",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1297152/covers/cover@2x.jpg?1658673027",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1297152/covers/card@2x.jpg?1658673027",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1297152/covers/list@2x.jpg?1658673027"
+            }
+          }
+        },
+        {
+          "ID": 3229078,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 3229078,
+            "DifficultyName": "Elegant Alibi",
+            "BPM": 123.0,
+            "Length": 146000.0,
+            "StarRating": 6.68,
+            "EndTimeObjectCount": 274,
+            "TotalObjectCount": 823,
+            "Metadata": {
+              "Title": "Reasons",
+              "title_unicode": "Reasons",
+              "Artist": "Xista",
+              "artist_unicode": "Xista",
+              "Author": {
+                "OnlineID": 12091109,
+                "Username": "melwoine",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "corsace co2021 gf fm2",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1581363/covers/cover@2x.jpg?1634502667",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1581363/covers/card@2x.jpg?1634502667",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1581363/covers/list@2x.jpg?1634502667"
+            }
+          }
+        },
+        {
+          "ID": 4176627,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 4176627,
+            "DifficultyName": "Horizon",
+            "BPM": 175.0,
+            "Length": 139000.0,
+            "StarRating": 6.59,
+            "EndTimeObjectCount": 229,
+            "TotalObjectCount": 735,
+            "Metadata": {
+              "Title": "New Horizon",
+              "title_unicode": "New Horizon",
+              "Artist": "SAMString",
+              "artist_unicode": "SAMString",
+              "Author": {
+                "OnlineID": 4945926,
+                "Username": "yaspo",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "rescup23 resurrection cup 2023 ql qualifiers hr2",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2007873/covers/cover@2x.jpg?1688914856",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2007873/covers/card@2x.jpg?1688914856",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2007873/covers/list@2x.jpg?1688914856"
+            }
+          }
+        },
+        {
+          "ID": 2479610,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 2479610,
+            "DifficultyName": "Convo",
+            "BPM": 108.0,
+            "Length": 198000.0,
+            "StarRating": 5.09,
+            "EndTimeObjectCount": 220,
+            "TotalObjectCount": 603,
+            "Metadata": {
+              "Title": "These Walls",
+              "title_unicode": "These Walls",
+              "Artist": "Kendrick Lamar",
+              "artist_unicode": "Kendrick Lamar",
+              "Author": {
+                "OnlineID": 10526814,
+                "Username": "Luminiscental",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1190067/covers/cover@2x.jpg?1594323072",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1190067/covers/card@2x.jpg?1594323072",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1190067/covers/list@2x.jpg?1594323072"
+            }
+          }
+        },
+        {
+          "ID": 3228871,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3228871,
+            "DifficultyName": "39'C",
+            "BPM": 190.0,
+            "Length": 251000.0,
+            "StarRating": 5.32,
+            "EndTimeObjectCount": 322,
+            "TotalObjectCount": 1268,
+            "Metadata": {
+              "Title": "Modern Strange Cowboy",
+              "title_unicode": "Modern Strange Cowboy",
+              "Artist": "GRANRODEO",
+              "artist_unicode": "GRANRODEO",
+              "Author": {
+                "OnlineID": 2688581,
+                "Username": "Luscent",
+                "CountryString": "Unknown"
+              },
+              "Source": "NEEDLESS",
+              "tags": "co2021 corsace open gf dt3 japanese rock jrock",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1581243/covers/cover@2x.jpg?1634491921",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1581243/covers/card@2x.jpg?1634491921",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1581243/covers/list@2x.jpg?1634491921"
+            }
+          }
+        },
+        {
+          "ID": 3255549,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3255549,
+            "DifficultyName": "JeZag's Insane",
+            "BPM": 172.0,
+            "Length": 224000.0,
+            "StarRating": 5.08,
+            "EndTimeObjectCount": 388,
+            "TotalObjectCount": 864,
+            "Metadata": {
+              "Title": "Beast (Vorso Remix)",
+              "title_unicode": "Beast (Vorso Remix)",
+              "Artist": "Culprate",
+              "artist_unicode": "Culprate",
+              "Author": {
+                "OnlineID": 8688812,
+                "Username": "Mir",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental dnb drumstep neurofunk bass inspector dubplate inspected thzz lecandy amateurre jezag drum and",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 3.5,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1552826/covers/cover@2x.jpg?1638835663",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1552826/covers/card@2x.jpg?1638835663",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1552826/covers/list@2x.jpg?1638835663"
+            }
+          }
+        },
+        {
+          "ID": 2434310,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 2434310,
+            "DifficultyName": "Fervor of Battle",
+            "BPM": 180.0,
+            "Length": 237000.0,
+            "StarRating": 5.46,
+            "EndTimeObjectCount": 333,
+            "TotalObjectCount": 790,
+            "Metadata": {
+              "Title": "Battlecry",
+              "title_unicode": "Battlecry",
+              "Artist": "Mazare & Philip Strand",
+              "artist_unicode": "Mazare & Philip Strand",
+              "Author": {
+                "OnlineID": 6488658,
+                "Username": "Moko",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "dnb drum and bass drumstep english melodic vocal male edm electronic monstercat sb storyboard xm4ti3 hantrik jaybone",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.7,
+              "OverallDifficulty": 8.6,
+              "ApproachRate": 9.2,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1167000/covers/cover@2x.jpg?1650696553",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1167000/covers/card@2x.jpg?1650696553",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1167000/covers/list@2x.jpg?1650696553"
+            }
+          }
+        },
+        {
+          "ID": 4452821,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 4452821,
+            "DifficultyName": "Nytro's Earthgrazer Extreme",
+            "BPM": 175.0,
+            "Length": 166000.0,
+            "StarRating": 6.54,
+            "EndTimeObjectCount": 224,
+            "TotalObjectCount": 905,
+            "Metadata": {
+              "Title": "Burning Star",
+              "title_unicode": "Burning Star",
+              "Artist": "LV.4",
+              "artist_unicode": "LV.4",
+              "Author": {
+                "OnlineID": 53378,
+                "Username": "ktgster",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu! World Cup 2023",
+              "tags": "electronic instrumental owc2023gfhr3 hr grand finals fa featured artist wispy squirrelpascals ioexception cytusine nytrocide_ nytro ganyumymommy dada chemo serenhaide",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2095154/covers/cover@2x.jpg?1711412021",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2095154/covers/card@2x.jpg?1711412021",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2095154/covers/list@2x.jpg?1711412021"
+            }
+          }
+        },
+        {
+          "ID": 2719305,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 2719305,
+            "DifficultyName": "War Cry",
+            "BPM": 240.0,
+            "Length": 195000.0,
+            "StarRating": 7.73,
+            "EndTimeObjectCount": 122,
+            "TotalObjectCount": 1419,
+            "Metadata": {
+              "Title": "Hails from the Edge",
+              "title_unicode": "Hails from the Edge",
+              "Artist": "Brymir",
+              "artist_unicode": "Brymir",
+              "Author": {
+                "OnlineID": 7262798,
+                "Username": "LMT",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "finnish melodic symphonic death metal wings of fire",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1312066/covers/cover@2x.jpg?1609093912",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1312066/covers/card@2x.jpg?1609093912",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1312066/covers/list@2x.jpg?1609093912"
+            }
+          }
+        },
+        {
+          "ID": 3992308,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 3992308,
+            "DifficultyName": "revoh's Expert",
+            "BPM": 132.0,
+            "Length": 130000.0,
+            "StarRating": 7.13,
+            "EndTimeObjectCount": 283,
+            "TotalObjectCount": 607,
+            "Metadata": {
+              "Title": "Random",
+              "title_unicode": "Random",
+              "Artist": "Sobrem x Silentroom",
+              "artist_unicode": "Sobrem × Silentroom",
+              "Author": {
+                "OnlineID": 10562853,
+                "Username": "seros",
+                "CountryString": "Unknown"
+              },
+              "Source": "BOFXVII",
+              "tags": "featured artist sobrem silentroom the bms of fighters xvii -vision retro future- clue [clue] english electronic instrumental jazz ak74 revoh dahkjdas kowari callionet intensity hakurei yoru hakurei_yoru zengsb pigeons arsalan yf yf_bmp mappers' guild mpg mg fa featured artist",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 3.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1674155/covers/cover@2x.jpg?1711303652",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1674155/covers/card@2x.jpg?1711303652",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1674155/covers/list@2x.jpg?1711303652"
+            }
+          }
+        },
+        {
+          "ID": 4484078,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 4484078,
+            "DifficultyName": "rev03's FOUR BOOTYMENSIONS",
+            "BPM": 128.5,
+            "Length": 259000.0,
+            "StarRating": 6.82,
+            "EndTimeObjectCount": 661,
+            "TotalObjectCount": 1200,
+            "Metadata": {
+              "Title": "Baby Got Back",
+              "title_unicode": "Baby Got Back",
+              "Artist": "Sir Mix-A-Lot",
+              "artist_unicode": "Sir Mix-A-Lot",
+              "Author": {
+                "OnlineID": 7306698,
+                "Username": "1103",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "revoh english hop hip i like big butt butts riffy mack daddy mrc5 mahloola regional cup nm3 washedup player corrosive hiphop",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2131840/covers/cover@2x.jpg?1710703427",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2131840/covers/card@2x.jpg?1710703427",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2131840/covers/list@2x.jpg?1710703427"
+            }
+          }
+        },
+        {
+          "ID": 3392208,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 3392208,
+            "DifficultyName": "Atelier",
+            "BPM": 216.0,
+            "Length": 372000.0,
+            "StarRating": 8.12,
+            "EndTimeObjectCount": 515,
+            "TotalObjectCount": 2244,
+            "Metadata": {
+              "Title": "Sky of Twilight",
+              "title_unicode": "Sky of Twilight",
+              "Artist": "Ito Kanako",
+              "artist_unicode": "いとうかなこ",
+              "Author": {
+                "OnlineID": 6381153,
+                "Username": "ItsWinter",
+                "CountryString": "Unknown"
+              },
+              "Source": "エスカ＆ロジーのアトリエ～黄昏の空の錬金術士～",
+              "tags": "anime girl natsume shiki [keqing] no renkinjutsushi renkin jutsushi vocal album shade atelier series escha and logy alchemist dusk 大和 yamato tasogare sora scubdomino scub domino video game the metal japanese itou wakaba ayellowperson rock progressive jrock j-rock",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.3,
+              "OverallDifficulty": 9.6,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1570424/covers/cover@2x.jpg?1640858374",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1570424/covers/card@2x.jpg?1640858374",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1570424/covers/list@2x.jpg?1640858374"
+            }
+          }
+        }
+      ],
+      "StartDate": "2024-03-29T00:00:00+00:00",
       "Matches": [
         30,
         18,
