@@ -1496,10 +1496,10 @@
     {
       "ID": 30,
       "Team1Acronym": "我的哈",
-      "Team1Score": null,
+      "Team1Score": 2,
       "Team2Acronym": "BAN",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 7,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": true,
@@ -1520,13 +1520,13 @@
       "ID": 18,
       "Team1Acronym": "DRO",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "BAN",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-03-30T06:00:00+00:00",
+      "Date": "2024-03-31T03:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1620,
@@ -1534,7 +1534,7 @@
       },
       "Acronyms": [
         "DRO",
-        ""
+        "BAN"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
@@ -1549,7 +1549,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-03-31T05:00:00+00:00",
+      "Date": "2024-03-31T06:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1800,
